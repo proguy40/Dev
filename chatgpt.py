@@ -1,7 +1,7 @@
 import openai
 
 # 발급받은 OpenAI API Key 기입
-YOUR_API_KEY = '<your-openai-api-key>'
+YOUR_API_KEY = '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'
 
 
 def ChatGPT(prompt, API_KEY=YOUR_API_KEY):
